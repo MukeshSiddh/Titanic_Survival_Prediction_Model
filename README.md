@@ -25,5 +25,17 @@ Random Forests<br/>
 Support Vector Machines<br/>
 K-Nearest Neighbors<br/>
 **Evaluation**: Use accuracy and other metrics to determine the best-performing model.<br/>
-This approach ensures a robust analysis of factors affecting survival and identifies the most accurate predictive model.
+This approach ensures a robust analysis of factors affecting survival and identifies the most accurate predictive model.<br/>
+
+**Streamlit Integration**:
+
+-> open window powershell and run streamlit run app.py<br/>
+    app.py is the file where our strealit integration code is written.
+-> This command will start a local server and provide you with a URL to view the app in your web browser, typically http://localhost:8501.
+
+User interface for this code will look like the following:
+
+![Screenshot (179)](https://github.com/user-attachments/assets/a031ab36-b732-4cf3-8bcb-21b8ab67ebfc)
+![Screenshot (178)](https://github.com/user-attachments/assets/a534bb74-8849-4555-92f8-cbd44cb0cdc4)
+
 
