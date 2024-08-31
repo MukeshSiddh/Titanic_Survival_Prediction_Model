@@ -35,7 +35,7 @@ This approach ensures a robust analysis of factors affecting survival and identi
 
 User interface for this code will look like the following:
 
-![Screenshot (179)](https://github.com/user-attachments/assets/a031ab36-b732-4cf3-8bcb-21b8ab67ebfc)
 ![Screenshot (178)](https://github.com/user-attachments/assets/a534bb74-8849-4555-92f8-cbd44cb0cdc4)
+![Screenshot (179)](https://github.com/user-attachments/assets/a031ab36-b732-4cf3-8bcb-21b8ab67ebfc)
 
 
